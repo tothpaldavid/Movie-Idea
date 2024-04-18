@@ -4,7 +4,7 @@ import MovieCard from "./MovieCard";
 import './App.css';
 import SearchIcon from './search.svg'
 
-const API_URL = 'http://www.omdbapi.com?apikey=c1c2f6cb'
+const API_URL = 'https://www.omdbapi.com?apikey=c1c2f6cb'
 
 const movie1 = {
   "Title": "Fighting, Flying and Driving: The Stunts of Spiderman 3",
